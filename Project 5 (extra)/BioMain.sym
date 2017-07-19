@@ -1,0 +1,23 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	Alpha                   3007
+//	COUNT                   304F
+//	CapA                    3045
+//	CapC                    3046
+//	CapG                    3047
+//	CapT                    3048
+//	DELAY                   300E
+//	DelayA                  3016
+//	DelayTA                 3025
+//	DelayTG                 3035
+//	KBIEN                   3049
+//	KBISR                   304C
+//	KBIVE                   304B
+//	KBSR                    304A
+//	Omega                   3043
+//	PostT                   3014
+//	PostTA                  3023
+//	PostTG                  3033
+//	READ                    3040
+//	SBase                   304D
+//	Typed                   304E

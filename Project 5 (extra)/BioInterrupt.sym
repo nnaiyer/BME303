@@ -1,0 +1,11 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CapA                    0111
+//	CapC                    0112
+//	CapG                    0113
+//	CapT                    0114
+//	DDR                     0117
+//	Get                     0115
+//	KBDR                    0116
+//	Liquid                  010F
+//	Solid                   010E
